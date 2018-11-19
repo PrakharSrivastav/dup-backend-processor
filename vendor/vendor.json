@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "F9W8yLDTjhto3twicbNOHU966eM=",
+			"path": "github.com/radovskyb/watcher",
+			"revision": "25a66c5e3b2606303dab04f005f1c276f0227f62",
+			"revisionTime": "2018-10-27T23:23:38Z"
+		}
+	],
+	"rootPath": "github.com/sysco-middleware/dup-backend-processor"
+}
